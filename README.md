@@ -11,7 +11,7 @@ Evaluar una forma alternativa de construir el índice de marginación usando los
 - `Ejercicio3.ipynb`
   - Notebook principal del análisis.
   - Incluye carga y limpieza de datos, estandarización, PCA, exploración de componentes, comparación con el índice oficial y generación de gráficas.
-  - Integra an�lisis tabular y visual (incluyendo mapas y figuras de apoyo).
+  - Integra análisis tabular y visual (incluyendo mapas y figuras de apoyo).
 
 - `IMM_2020.xls`
   - Base de datos fuente a nivel municipal.
@@ -31,9 +31,9 @@ Evaluar una forma alternativa de construir el índice de marginación usando los
     - `national/00mun.shp`
     - `national/national_estatal.shp`
 
-## Herramientas y librer�as usadas
+## Herramientas y librerias usadas
 
-Python (Jupyter) con librer�as como:
+Python (Jupyter) con librerias como:
 
 - `pandas`, `numpy`
 - `scikit-learn` (PCA, estandarización)
