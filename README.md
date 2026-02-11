@@ -23,7 +23,7 @@ Evaluar una forma alternativa de construir el índice de marginación usando los
 
 - `Figura3_1.png` a `Figura3_6.png`
   - Salidas gráficas del análisis.
-  - Se usan como evidencia visual para comparar patrones, componentes principales y comportamiento del �ndice alternativo.
+  - Se usan como evidencia visual para comparar patrones, componentes principales y comportamiento del índice alternativo.
 
 - `national/`
   - Insumos geoespaciales usados para representación territorial.
